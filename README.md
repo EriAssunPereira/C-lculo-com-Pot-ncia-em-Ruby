@@ -1,4 +1,4 @@
-# C-lculo-com-Pot-ncia-em-Ruby
+# Cálculo-com-Poténcia-em-Ruby
 
 Vou mostrar aqui, como criar um módulo em Ruby para calcular a terceira potência de até três números inseridos pelo usuário. Aqui está um exemplo de como você pode estruturar o código:
 
